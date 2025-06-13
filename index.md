@@ -2,7 +2,7 @@
 
 ## About
 
-In Fall 2025 I will be joining the [Institute for Translational Medicine and Therapeutics](https://www.itmat.upenn.edu) as a postdoctoral fellow working with Gregory Grant and Shaon Sengupta working on chronobiology.
+In Fall 2025 I will be joining the [Institute for Translational Medicine and Therapeutics](https://www.itmat.upenn.edu) as a postdoctoral fellow with Gregory Grant and Shaon Sengupta working in bioinformatics and chronobiology.
 
 I completed my mathematics PhD in May 2025 with [Florian Pop](https://www2.math.upenn.edu/~pop/). My mathematical interests are broadly in Galois theory and number theory. Before that, I was an undergraduate at [Carnegie Mellon University](https://www.cmu.edu/math). My CV is [here](/assets/CV.pdf).
 
@@ -13,7 +13,7 @@ I completed my mathematics PhD in May 2025 with [Florian Pop](https://www2.math.
 0. (with Megumi Asada, Ryan Chen, Eva Fourakis, Yujin Kim, Jared Lichtman, Blake Mackall, Steven J. Miller, Eric Winsor, Karl Winsor, Jianing Yang, and Kevin Yang) [Lower-Order Biases in Second Moments of Dirichlet Coefficients in Families of L-functions](https://arxiv.org/abs/1808.06056). _Experimental Mathematics_, **32** (2023), 431-456.
 0. [A note on Diophantine subsets of large fields](https://arxiv.org/abs/2411.03212). Preprint.
 0. Convergent Decomposition Groups and the _S_-adic Shafarevich Conjecture, in preparation.
-{: reversed="reversed"}
+
 
 ## Teaching
 
